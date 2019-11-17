@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'SafetyCollection'
-  s.version = '1.0'
+  s.version = '1.1'
   s.summary = 'SafetyCollection falicates for get item from a collection'
   s.description = <<-DESC
   SafetyCollection written on Swift 5.0 by levantAJ

@@ -1,10 +1,10 @@
 [![CocoaPods](https://img.shields.io/cocoapods/p/SafetyCollection.svg)](https://cocoapods.org/pods/SafetyCollection)
 [![CocoaPods](https://img.shields.io/cocoapods/v/SafetyCollection.svg)](http://cocoapods.org/pods/SafetyCollection)
 [![Pod License](https://cocoapod-badges.herokuapp.com/l/SafetyCollection/badge.png)](https://www.apache.org/licenses/LICENSE-2.0.html)
-[![Build Status](https://travis-ci.org/levantAJ/TheConstraints.svg?branch=master)](https://travis-ci.org/levantAJ/SafetyCollection)
+[![Build Status](https://travis-ci.org/levantAJ/SafetyCollection.svg?branch=master)](https://travis-ci.org/levantAJ/SafetyCollection)
 
 # 🦺 SafetyCollection
-SafetyCollection falicates for get item from a collection
+SafetyCollection facilitates for get item from a collection
 
 ## Requirements
 

@@ -19,7 +19,7 @@ There is a way to use SafetyCollection in your project:
 ### Installation with CocoaPods
 
 ```
-pod 'SafetyCollection'
+pod 'SafetyCollection', '1.1'
 ```
 ### Build Project
 
